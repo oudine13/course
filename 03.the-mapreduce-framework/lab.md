@@ -23,7 +23,7 @@ uncompromised   1
 1. Clone this class' repo from GitHub to your `/home/$USER/` on the edge node:
 
    ```bash
-   git clone https://github.com/adaltas/<name-of-your-repo>.git
+   git clone https://github.com/oudine13/module3_lab.git
    ```
 
 2. Go to the `03.the-mapreduce-framework/lab-resources/` directory.
